@@ -1,0 +1,211 @@
+﻿/* Tags */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #C0C0C0;
+	font-size: 0.8em;
+	color: #333333;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+p {
+	color: #333333;
+}
+
+a {
+	text-decoration: none;
+	color: #CC0000;
+	font-weight: bold;
+}
+a:hover {
+	font-weight: bold;
+	color: #0000FF;
+}
+ul {
+	list-style-type: square;
+}
+
+table{
+	/* single border */
+	/* border-collapse: collapse; */
+}
+
+table tr, td, th {
+	margin: 5px;
+	padding: 10px;
+}
+
+th {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: left;
+	background: #000000;
+}
+
+tr {
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFCC;
+}
+
+/* count rows from last */
+tr:nth-of-type(even) {
+	background-color:#EFEFED;
+}
+
+th:empty{
+	background-color:#FFFFFF;
+	border:none;
+}
+
+
+
+/* ID */
+
+#Container
+{
+	margin: 0px auto 0px auto;
+	padding: 10px;
+	background: white;
+	width: 80%;
+	max-width: 1000px;
+}
+
+#Navigation
+{
+	margin: 0;
+	border-bottom: 1px solid #000000;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	border-bottom-color: #CC0000;
+}
+
+#Navigation ul, #Navigation li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style-type: none;
+}
+
+#Navigation li {
+	
+	margin: 0 10px 4px 10px;
+}
+
+#Navigation a:link /*, #Navigation a:visited */   {
+	line-height: 14px;
+	font-weight: bold;
+	
+	text-decoration: none;
+	color: #CC0000;
+}
+
+/* http://www.expression-web-designer-help.com/forum/set-body-id-with-jquery-in-dwt_topic4041.html */
+
+#Navigation a:hover, #Home .home, #About .about, #Services .services, #Clients .clients, #Contact .contact, #Account .account
+{
+	border-bottom: 4px solid #000000;
+	padding-bottom: 2px;
+	background: transparent;
+	color: #000000;
+}
+
+#Content
+{
+
+}
+
+#Left
+{
+	width: 25%;
+	max-width: 200px;
+	float: left;
+}
+#Right
+{
+	width: 25%;
+	max-width: 200px;
+	float: right;
+}
+
+
+#Centre
+{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#Footer
+{
+	clear: both;
+	text-align: center;
+}
+
+#Logo {
+	border-left: 1px none #CC0000;
+	border-right: 1px none #CC0000;
+	border-top: 1px solid #CC0000;
+	border-bottom: 1px solid #CC0000;
+    background-image: url('./images/core.jpg');
+	background-repeat: no-repeat;
+	background-position: left center;
+	height: 150px;
+	margin-bottom: 10px;
+	position: relative;
+}
+#LogoText {
+	color: #CC0000;
+	position: absolute;
+	left: 132px;
+	top: 46px;
+	width: 366px;
+	height: 70px;"
+}
+
+#StyleForm {
+	display: block;
+	margin: 9em 0.5em 0px 0px;
+	float: right;
+}
+
+#StyleForm label {
+	text-align: right;
+	float: left;
+	display: block;
+	margin-right: 0.2em;
+
+}
+
+
+/* Classes */
+
+.startText {
+	color: #333333;
+	font-weight: bold;
+}
+
+.title {
+	color: #333333;
+}
+.subTitle {
+	color: #666666;
+}
+
+.gallery li {
+	display: inline;
+	list-style: none;
+	min-height: 175px;
+	float: left;
+	margin: 0 30px 20px 0;
+	text-align: left;
+}
+
+.gallery img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}

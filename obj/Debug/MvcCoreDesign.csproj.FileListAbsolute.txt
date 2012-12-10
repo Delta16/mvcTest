@@ -1,0 +1,20 @@
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\MvcCoreDesign.dll
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\MvcCoreDesign.pdb
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\EntityFramework.dll
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\EntityFramework.xml
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\MvcCoreDesign.csprojResolveAssemblyReference.cache
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\MvcCoreDesign.dll
+D:\userFiles\Enda\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\MvcCoreDesign.pdb
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\MvcCoreDesign.dll
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\MvcCoreDesign.pdb
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\EntityFramework.dll
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\bin\EntityFramework.xml
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\MvcCoreDesign.dll
+C:\Users\elee\SkyDrive\Lect\2012-2013\WDD2\Labs\MVC3_Projects\MvcCoreDesign\MvcCoreDesign\obj\Debug\MvcCoreDesign.pdb
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\bin\MvcCoreDesign.dll
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\bin\MvcCoreDesign.pdb
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\bin\EntityFramework.dll
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\bin\EntityFramework.xml
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\obj\Debug\MvcCoreDesign.dll
+C:\Users\MaGiC\Documents\Visual Studio 2010\Projects\CoreDesign2\MvcCoreDesign\obj\Debug\MvcCoreDesign.pdb

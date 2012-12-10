@@ -1,0 +1,40 @@
+﻿@model MvcCoreDesign.Models.UserAccount
+       
+@{
+    ViewBag.Title = "Account";
+}
+
+<h2>Account</h2>
+@if (Session["LoggedIn"] != null && (bool)Session["LoggedIn"] == true)
+{
+    <p>
+        You Have Already Logged In Please @Html.ActionLink("Press Here To Log Out", "LogOut")</p>
+}
+@using (Html.BeginForm()) {
+    <div>
+        <fieldset>
+            <legend>Account Information</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.UserName)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.UserName)
+                @Html.ValidationMessageFor(m => m.UserName)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Password)
+            </div>
+            <div class="editor-field">
+                @Html.PasswordFor(m => m.Password)
+                @Html.ValidationMessageFor(m => m.Password)
+            </div>
+
+            <p>
+                <input type="submit" value="Log On" />
+            </p>
+        </fieldset>
+    </div>
+}
+
